@@ -1,0 +1,12 @@
+<%- include('./commons/header') %>
+
+<% i = 0 %>
+<% videos.forEach(function(video) { %>
+<% i++ %>
+<%= i %>
+<p><%= video.data().title %></p>
+<a href="/video/<%=video.id%>"><img src="<%=video.data().mediumThumbnail%>"></a>
+<% }); %>
+</body>
+
+</html>
