@@ -8,6 +8,6 @@ JavaScript
 HTML CSS  
 Python  
 
-# 依存関係 (Dependencies)
+# Dependencies (依存関係)
 Google API  
 Firebase  
