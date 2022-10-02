@@ -10,4 +10,4 @@ Python
 
 # Dependencies (依存関係)
 Google API  
-Firebase  
+Google Firebase  
