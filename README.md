@@ -9,5 +9,5 @@
 - Python
 
 # Dependencies (依存関係)
--- Google API
--- Google Firebase
+- Google API
+- Google Firebase
